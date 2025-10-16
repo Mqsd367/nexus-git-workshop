@@ -1,6 +1,6 @@
 #include<stdio.h>
 int min()
-{printf("omer ");
+{printf("vjvnv");
 return 0;
 }
 
